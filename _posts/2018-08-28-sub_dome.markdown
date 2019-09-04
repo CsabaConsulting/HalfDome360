@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Sub Dome"
+date: 2018-08-28 18:30:00
+categories: vrview
+image_url: sub_dome.jpg
+is_image_360: true
+default_yaw: 200
+thumbnail: sub_dome_th.jpg
+youtube_id: 3QX2qTR6xpU
+description: Sub Dome!
+---
+The Half Dome trail loops around the dome from Nevada Falls and the hikers first ascend onto the Sub Dome. Then people arrive to the bottom of the cables (where the ranger waits, collects trash and people getting their bearings straight after climbing.
+It's interesting that on the sub dome face and top there's no definitive trail but you go as you wish towards the Half Dome. This picture and video was taken during the descend.

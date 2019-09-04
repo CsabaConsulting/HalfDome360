@@ -1,0 +1,21 @@
+# Site settings
+title: Half Dome hike in 360
+email: csaba.toth.us@gmail.com
+description: 360 videos and photos taken during a 2019-08-28 Half Dome hike
+baseurl: "/HalfDome360" # the subpath of your site, e.g. /blog/
+url: "https://csabaconsulting.github.io" # the base hostname & protocol for your site
+copyright: '&copy; 2019 Csaba Toth'
+
+# Links
+source: "https://github.com/csabaconsulting/HalfDome360"
+blog: "https://csaba.page/"
+twitter: "https://twitter.com/tocsa2"
+
+# Build settings
+markdown: kramdown
+
+# Custom theme could be generated at: https://getmdl.io/customize/index.html
+material_theme: red-green
+
+# Google Analytics account ID (UA-XXXXXXXX-X)
+# google-analytics-ua: UA-58569239-4
