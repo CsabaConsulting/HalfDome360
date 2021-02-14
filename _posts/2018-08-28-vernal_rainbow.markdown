@@ -10,4 +10,4 @@ thumbnail: vernal_rainbow_th.jpg
 youtube_id: B-58YRDsTHE
 description: Permanent Rainbow in the Vernal Fall's spray
 ---
-This is a magical rainbow which is so beautiful within the spray fo the Vernal Falls!
+This is a magical rainbow which is so beautiful within the spray of the Vernal Falls!

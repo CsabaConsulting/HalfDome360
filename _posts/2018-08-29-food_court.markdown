@@ -10,5 +10,5 @@ thumbnail: food_court_th.jpg
 youtube_id: GGLG_ruZMVw
 description: Yosemite Lodge Food Court
 ---
-I didn't have time to record at night, because they were closing (thank God they were open until 9:30 pm). But here is the morning.
-After that I went to the Visitor Center to gear up for hitch hiking, getting a plan for a good spot and making plan B.
+I didn't have time to record at night, because they were closing (thank God they were open until 9:30 PM). But here is the morning.
+After that I went to the Visitor Center to gear up for hitchhiking, getting a plan for a good spot and making plan B.
